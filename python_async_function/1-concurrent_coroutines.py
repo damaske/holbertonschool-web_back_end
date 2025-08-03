@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """
-This module defines `wait_n`, which spawns `n` coroutines of `wait_random`
-with a max delay and returns the list of delays in the order they complete.
+This module defines `wait_n`,
+which spawns `n` coroutines of `wait_random`
+with a max delay and returns
+the list of delays in the order they complete.
 """
 import asyncio
 from typing import List
