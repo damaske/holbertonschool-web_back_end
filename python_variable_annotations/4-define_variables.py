@@ -25,7 +25,7 @@ True, indicating understanding of annotations.
 
 school: str = 'Holberton'
 """
-str: A variable 'school' assigned 
+str: A variable 'school' assigned
 a string value 'Holberton',
 representing the name of the school.
 """
